@@ -2,17 +2,6 @@
 # ZYNBOX v2.0 – Personal Productivity AI Agent
 # Team: Utkarsh Sharma, Zeeshan, Utkarsh Pandey
 # =============================================================================
-# Improvements over v1:
-#   ✅ Claude AI integration for real conversational responses
-#   ✅ 2 professional themes: Study Mode & Creative Mode
-#   ✅ Pomodoro focus timer with session tracking
-#   ✅ Notes manager (add, view, delete)
-#   ✅ Task priorities (high / medium / low)
-#   ✅ Stats dashboard in chat
-#   ✅ Chat history passed to Claude for context-aware replies
-#   ✅ Polished Inter-font UI with gradient accents + glow effects
-#   ✅ Clear chat button, better quick-action panel
-# =============================================================================
 
 import streamlit as st
 import json
